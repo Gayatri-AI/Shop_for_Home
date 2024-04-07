@@ -1,5 +1,5 @@
 # Shop_for_Home
-**Problem Statement:**
+**Problem Statement:**\n
 ShopForHome is a popular Store in the market for shopping home décor stuff. Due toCovid 19 all the offline shopping stopped. So,the store wants to move to online platforms and wants their own web application.
 **There are 2 users on the application:**
 1.User
